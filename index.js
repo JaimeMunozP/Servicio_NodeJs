@@ -71,4 +71,4 @@ server.listen(PORT, () => {
     console.log(`  - http://localhost:${PORT}/teachers`);
     console.log(`  - http://localhost:${PORT}/simulate-500`);
     console.log(`  - http://localhost:${PORT}/cualquier-otra-cosa`);
-});55
+});
